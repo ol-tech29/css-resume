@@ -1,0 +1,37 @@
+
+
+
+.sevillana-regular{
+  font-family: "Sevillana", cursive, serif;
+  font-weight: 400;
+  font-style: normal;
+  color:whitesmoke ;
+}
+
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #3DF5E4, #4B3DF5);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+.profile-image{
+  border-radius: 50%;
+}
+.second-p{
+  text-align: justify;
+}
+.sub-heading{
+color: #4B3DF5;
+font-size: 2em;
+  font-family: "Geist Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+}
+.footer{
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
